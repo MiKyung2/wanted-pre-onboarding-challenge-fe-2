@@ -2,6 +2,8 @@
 
 typescript 챌린지
 
+[jsDoc 페이지] (https://mikyung2.github.io/wanted-pre-onboarding-challenge-fe-2/out)
+
 ### Todo
 
 ```js
